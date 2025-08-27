@@ -364,6 +364,7 @@ with tab2:
 
             if outlet_n2_sd <= 0:
                 outlet_n2_sd = abs(outlet_n2_sd - 0.005)
+                outlet_dp = outlet_dp + 0.5*outlet_dp
 
             row = OrderedDict()
             row["Case"] = int(st.session_state.run_counter)
