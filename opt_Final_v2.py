@@ -245,7 +245,7 @@ with tab2:
   ★ = Best(최적의 케이스),  ✕ = Baseline (초기 설계 형상),  ◯ = Current (현재 계산된 케이스)
 
 - **(Right) Outlet N2 Mass Fraction (출구 N2 농도 표준편차)**  
-  현재 계산된 케이스에서 출구 단면의 N2 농도 표준편차 Contour를 보여줍니다. mixing이 잘 일어날수록 색의 편차가 줄어듭니다.  
+  현재 계산된 케이스의 출구 단면 N2 농도 Contour를 보여줍니다. mixing이 잘 일어날수록 색의 편차가 줄어듭니다.  
         """
     )
 
