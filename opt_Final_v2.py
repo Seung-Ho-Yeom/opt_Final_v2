@@ -35,8 +35,8 @@ import torch.nn as nn
 
 
 # ------------------ Defaults & Styles ------------------
-DEFAULT_INITIAL_DESIGN = 20
-DEFAULT_TOTAL_DESIGN   = 80
+DEFAULT_INITIAL_DESIGN = 15
+DEFAULT_TOTAL_DESIGN   = 30
 DEFAULT_W1 = 1.0   # weight for dp
 DEFAULT_W2 = 5.0   # weight for N2_sd
 
